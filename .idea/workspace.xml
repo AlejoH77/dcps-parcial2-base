@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ecc826dd-1df2-42eb-9ef8-85c192f2d664" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/authors/author.js" afterPath="$PROJECT_DIR$/app/controllers/authors/author.js" />
       <change beforePath="$PROJECT_DIR$/app/templates/authors/author.hbs" afterPath="$PROJECT_DIR$/app/templates/authors/author.hbs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="author.hbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/authors/author.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -207,12 +206,12 @@
       <updated>1526004872301</updated>
       <workItem from="1526004874433" duration="2607000" />
       <workItem from="1526042469529" duration="492000" />
-      <workItem from="1526050685357" duration="6635000" />
+      <workItem from="1526050685357" duration="6952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9734000" />
+    <option name="totallyTimeSpent" value="10051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -385,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/authors/author.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
           <folding />
         </state>
       </provider>
