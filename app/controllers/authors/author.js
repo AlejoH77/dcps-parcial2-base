@@ -8,7 +8,7 @@ export default Controller.extend({
         post.deleteRecord();
         post.get('isDeleted');
         post.save();
-        alert("Se ha borrado exitosamente");
+        alert("this post was delete");
         this.transitionToRoute('authors.author', post.author);
       }
 

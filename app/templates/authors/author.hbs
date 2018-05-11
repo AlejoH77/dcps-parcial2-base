@@ -15,14 +15,14 @@
   </tr>
   </thead>
   <tbody>
-  {{#each model.posts as |post|}}
-    <tr>
-      <td><button type="button" {{action 'delete' post}}>Delete Post</button></td>
-      <td>{{post.title}}</td>
-      <td>{{post.publishedAt}}</td>
-      <td>{{post.content}}</td>
-    </tr>
-  {{/each}}
+    {{#each model.posts as |post|}}
+      <tr>
+        <td><button type="button" {{action 'delete' post}}>Delete Post</button></td>
+        <td>{{post.title}}</td>
+        <td>{{post.publishedAt}}</td>
+        <td>{{post.content}}</td>
+      </tr>
+    {{/each}}
   </tbody>
 </table>
 {{outlet}}
